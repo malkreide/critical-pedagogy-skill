@@ -99,6 +99,6 @@ Beiträge sind willkommen! Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details
 
 ## Autorin
 
-**Hayal Oezkan** – Schulamt der Stadt Zürich
+**Hayal Oezkan**
 - GitHub: [@malkreide](https://github.com/malkreide)
 - LinkedIn: [hayaloezkan](https://www.linkedin.com/in/hayaloezkan/)
