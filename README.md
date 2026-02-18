@@ -100,5 +100,13 @@ Beiträge sind willkommen! Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details
 ## Autorin
 
 **Hayal Oezkan**
-- GitHub: [@malkreide](https://github.com/malkreide)
-- LinkedIn: [hayaloezkan](https://www.linkedin.com/in/hayaloezkan/)
+
+---
+
+<div align="center">
+
+**Made with ❤️ in Zürich**
+
+[LinkedIn](https://www.linkedin.com/in/hayaloezkan/) • [Contributing](CONTRIBUTING.md)
+
+</div>
